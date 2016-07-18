@@ -153,3 +153,7 @@ bubble sort?
 - Bubble sort is a decent search algorithm and learning it helps one think about algorithms and time optimization.
 - Bubble sort performs great for nearly-sorted arrays, and terribly for reverse-sorted arrays.
 - While it is highly unlikely that a junior developer would be asked to implement a sort algorithm from scratch, being thoughtful about sorting algorithms and practicing breaking problems down is an indispensable skill!
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
